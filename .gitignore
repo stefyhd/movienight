@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# secrete
+.env
+.env.*
+!.env.example
+
+# Node / Expo
+node_modules/
+.expo/
+
+# date mari (MovieLens etc.)
+data/
+*.csv
+*.zip
+
+# editor / sistem
+.vscode/
+.DS_Store
