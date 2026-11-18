@@ -1,0 +1,24 @@
+
+# MovieNight
+
+MovieNight is a mobile application for discovering movies based on personal taste.
+
+Instead of browsing endless lists of movies, users build their own taste profile through an interactive game. The goal is to use their preferences to recommend movies they are more likely to enjoy.
+
+## Features & Development
+
+- User registration and JWT authentication
+- Movie data integration with TMDB
+- Interactive taste-profile game (in development)
+- Personalized movie recommendations (planned)
+
+## Tech Stack
+
+- **Mobile:** React Native, Expo
+- **Backend:** Python, Django REST Framework
+- **Database:** PostgreSQL
+- **Development:** Docker
+
+## Project Status
+
+MovieNight is currently under development. The project includes the authentication backend and initial mobile interface, with the recommendation system being developed next.
